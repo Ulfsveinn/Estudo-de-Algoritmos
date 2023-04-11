@@ -9,7 +9,6 @@ programa
 		leia (nome)
 		escreva("\nQual é a sua idade? ")
 		leia (idade)
-		escreva
-("\nOlá ",nome," Você tem ",idade, " anos")
+		escreva("\nOlá ",nome," Você tem ",idade, " anos")
 	}
 }
