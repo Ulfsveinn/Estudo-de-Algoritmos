@@ -22,7 +22,7 @@ programa
 		}
 			numeros++
 		}
-		escreva("\nForam Digitados ",neg ," Números Negativos e a soma dos Positivos é ", soma, " Você digitou ")
+		escreva("\nForam Digitados ",neg ," Números Negativos e a soma dos Positivos é ", soma,)
 	}
 }
 /* $$$ Portugol Studio $$$ 
